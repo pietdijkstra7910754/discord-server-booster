@@ -1,0 +1,12 @@
+# Discord Nexus Autonomous - Exclusions
+*.exe
+*.dll
+*.pdb
+.vs/
+x64/
+
+# Internally Generated Data
+/Generated_Nodes/
+/Proxy_Cache/
+/Session_Meta/
+config_auto.json
